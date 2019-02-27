@@ -1,0 +1,42 @@
+.navbar {
+	
+  
+  text-align: center;
+
+  background-color: transparent;
+  overflow: hidden;
+  text-align: center;
+ 
+  
+
+}
+.navbar b.logo
+{
+	 font-size :25px;
+	float:left;
+	text-align: left;
+	margin-left: 20px;
+	color: #FFA07A ;
+	text-decoration: none;
+	margin-right: 20px;
+	font-family: "Comic Sans MS";
+}
+.navbar a
+{
+	 font-size :20px;
+	color: #FFA07A ;
+	text-decoration: none;
+	margin-right: 20px;
+	font-family: "Lucida" , Monospace;
+}
+.navbar a:hover {
+  color: #FAA180;
+}
+.q
+{
+	font-size :55px;
+	margin-top: 150px;
+	color: #FFA07A ;
+	margin-left: 100px;
+	font-family: "Lucida" , Monospace;
+}
